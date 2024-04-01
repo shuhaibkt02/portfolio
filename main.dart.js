@@ -65998,7 +65998,7 @@ A.o6.prototype={}
 A.Dl.prototype={}
 A.j7.prototype={}
 A.Et.prototype={
-P(a){return new A.uE(B.Ee,"PortFolio",A.ahm(null,A.aod(B.zH,B.a_,B.HQ,B.i,B.B3,B.i),B.wa,!0),B.dz,!1,null)}}
+P(a){return new A.uE(B.Ee,"SHUHAIB KT",A.ahm(null,A.aod(B.zH,B.a_,B.HQ,B.i,B.B3,B.i),B.wa,!0),B.dz,!1,null)}}
 A.Co.prototype={
 P(a){var s=null,r=A.d_(a,B.dj,t.w).w.a.a,q=A.a_U(),p=r/15,o=r/20,n=r>700?1:2
 return A.agO(new A.cj(new A.bk(o,p,o,p),A.jc(A.a([new A.oo(1,B.kC,new A.Dn(q,s),s),new A.oo(n,B.kC,new A.BY(q,s),s)],t.E),B.a9,B.hh,B.aS),s))}}
