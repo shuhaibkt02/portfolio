@@ -66016,7 +66016,7 @@ A.Xh.prototype={
 $0(){var s=0,r=A.S(t.H)
 var $async$$0=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:s=2
-return A.Z(A.nH("assets/shuhaib_kt.pdf"),$async$$0)
+return A.Z(A.nH("assets/assets/shuhaib_kt.pdf"),$async$$0)
 case 2:return A.Q(null,r)}})
 return A.R($async$$0,r)},
 $S:15}
